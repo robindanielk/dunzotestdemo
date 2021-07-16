@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DunzoTest</string>
+
+    <string name="search_msg">Start Searching to see result...</string>
+    <string name="search_label">Search here...</string>
+    <string name="error_label">Something went wrong</string>
+    <string name="server_error">Internal Server Error</string>
+    <string name="connection_error">Network Connection Failed</string>
+    <string name="load_next_page">Loading next page data...</string>
+    <string name="tap_to_retry">Tap here to retry</string>
+    <string name="no_result_found">NO RESULT FOUND</string>
+</resources>
